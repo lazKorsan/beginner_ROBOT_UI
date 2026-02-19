@@ -1,0 +1,15 @@
+
+uzak repo adresini ogrenmek icin
+git remote -v
+
+Eski Uzak Depo Bağlantısını Kaldırmak için
+git remote remove origin
+
+bu komut sonrası ilk komut çalıştırıldığında
+donen yanıt bos olmalı,,
+
+yeni uzak repo ilişkilendirme kodu
+
+git remote add origin https://github.com/lazKorsan/beginner_ROBOT_UI.git
+
+uzak repoyu doğrulma içim
